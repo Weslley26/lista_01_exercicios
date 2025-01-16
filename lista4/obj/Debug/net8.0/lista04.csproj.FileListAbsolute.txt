@@ -1,0 +1,15 @@
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista4\obj\Debug\net8.0\lista04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista4\obj\Debug\net8.0\lista04.AssemblyInfoInputs.cache
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista4\obj\Debug\net8.0\lista04.AssemblyInfo.cs
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista4\obj\Debug\net8.0\lista04.csproj.CoreCompileInputs.cache
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista4\obj\Debug\net8.0\lista04.sourcelink.json
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista4\bin\Debug\net8.0\lista04.exe
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista4\bin\Debug\net8.0\lista04.deps.json
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista4\bin\Debug\net8.0\lista04.runtimeconfig.json
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista4\bin\Debug\net8.0\lista04.dll
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista4\bin\Debug\net8.0\lista04.pdb
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista4\obj\Debug\net8.0\lista04.dll
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista4\obj\Debug\net8.0\refint\lista04.dll
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista4\obj\Debug\net8.0\lista04.pdb
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista4\obj\Debug\net8.0\lista04.genruntimeconfig.cache
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista4\obj\Debug\net8.0\ref\lista04.dll

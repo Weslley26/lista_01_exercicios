@@ -1,0 +1,5 @@
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista9\obj\Debug\net8.0\lista09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista9\obj\Debug\net8.0\lista09.AssemblyInfoInputs.cache
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista9\obj\Debug\net8.0\lista09.AssemblyInfo.cs
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista9\obj\Debug\net8.0\lista09.csproj.CoreCompileInputs.cache
+C:\Users\wesley.sjesus7\source\repos\lista_01_exercicios\lista_01_exercicios\lista9\obj\Debug\net8.0\lista09.sourcelink.json

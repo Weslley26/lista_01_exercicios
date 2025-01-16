@@ -13,7 +13,7 @@ o Objetivo: Aplicar condições para classificar dados
 Console.WriteLine("Digite um numero:");
 
 int numero = int.Parse(Console.ReadLine());
-if (numero >= 1 && numero < -100 {
+if (numero >= 1 && numero < -100) {
     Console.WriteLine("o numero esta entre 1 e 100.");
 }else {
     Console.WriteLine("o numero nao esta entre 1 e 100.");
