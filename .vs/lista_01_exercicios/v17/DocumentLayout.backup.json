@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\wesley.sjesus7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40361685-CC64-4F99-8AA2-B0840A8487FF}|lista4\\lista04.csproj|c:\\users\\wesley.sjesus7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40361685-CC64-4F99-8AA2-B0840A8487FF}|lista4\\lista04.csproj|solutionrelative:lista4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E294E960-2172-49E0-8118-BFDB3CE98017}|lista3\\lista03.csproj|c:\\users\\wesley.sjesus7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E294E960-2172-49E0-8118-BFDB3CE98017}|lista3\\lista03.csproj|solutionrelative:lista3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51D5DFA-70DC-4800-A726-E120BED39832}|lista_02\\lista_02.csproj|c:\\users\\wesley.sjesus7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51D5DFA-70DC-4800-A726-E120BED39832}|lista_02\\lista_02.csproj|solutionrelative:lista_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D73B9054-E8FD-43EE-A7B3-20EB61A8CFEC}|lista_01\\lista_01.csproj|c:\\users\\wesley.sjesus7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D73B9054-E8FD-43EE-A7B3-20EB61A8CFEC}|lista_01\\lista_01.csproj|solutionrelative:lista_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -24,6 +36,45 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.sjesus7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista4\\Program.cs",
+              "RelativeDocumentMoniker": "lista4\\Program.cs",
+              "ToolTip": "C:\\Users\\wesley.sjesus7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista4\\Program.cs",
+              "RelativeToolTip": "lista4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:16:08.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.sjesus7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista3\\Program.cs",
+              "RelativeDocumentMoniker": "lista3\\Program.cs",
+              "ToolTip": "C:\\Users\\wesley.sjesus7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista3\\Program.cs",
+              "RelativeToolTip": "lista3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:02:55.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.sjesus7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_02\\Program.cs",
+              "RelativeDocumentMoniker": "lista_02\\Program.cs",
+              "ToolTip": "C:\\Users\\wesley.sjesus7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_02\\Program.cs",
+              "RelativeToolTip": "lista_02\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:11:19.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wesley.sjesus7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_01\\Program.cs",
               "RelativeDocumentMoniker": "lista_01\\Program.cs",
               "ToolTip": "C:\\Users\\wesley.sjesus7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_01\\Program.cs",
@@ -35,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wesley.sjesus7\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista01\\Program.cs",
               "RelativeDocumentMoniker": "lista01\\Program.cs",
@@ -43,7 +94,8 @@
               "RelativeToolTip": "lista01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:36:53.671Z"
+              "WhenOpened": "2025-01-16T17:36:53.671Z",
+              "EditorCaption": ""
             }
           ]
         }
