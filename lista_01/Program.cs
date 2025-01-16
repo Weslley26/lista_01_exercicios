@@ -7,3 +7,16 @@ o Objetivo: Praticar o uso do operador % (módulo) e estruturas condicionais
 simples.
 mero é par." ou "O número é ímpar
 */
+
+Console.WriteLine("Digite um número");
+
+int numero = int.Parse(Console.ReadLine());
+
+if ( numero % 2 == 0)
+{
+    Console.WriteLine("numero par");
+}
+else
+{
+    Console.WriteLine("numero impar");
+}
