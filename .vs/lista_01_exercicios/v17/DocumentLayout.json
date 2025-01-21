@@ -1,12 +1,58 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\wesley.sjesus7\\Documents\\lista_01_exercicios\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83A3D90B-1731-4BF6-BF70-E2F316D50842}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\wesley.sjesus7\\documents\\lista_01_exercicios\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A3D90B-1731-4BF6-BF70-E2F316D50842}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6021913-E227-459D-A7C0-83454EC35CE4}|EX_11\\EX_11.csproj|c:\\users\\wesley.sjesus7\\documents\\lista_01_exercicios\\ex_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6021913-E227-459D-A7C0-83454EC35CE4}|EX_11\\EX_11.csproj|solutionrelative:ex_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.sjesus7\\Documents\\lista_01_exercicios\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\wesley.sjesus7\\Documents\\lista_01_exercicios\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:55:02.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.sjesus7\\Documents\\lista_01_exercicios\\EX_11\\Program.cs",
+              "RelativeDocumentMoniker": "EX_11\\Program.cs",
+              "ToolTip": "C:\\Users\\wesley.sjesus7\\Documents\\lista_01_exercicios\\EX_11\\Program.cs",
+              "RelativeToolTip": "EX_11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:39:38.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
