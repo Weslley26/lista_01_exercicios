@@ -14,6 +14,7 @@ if (nota >= 9)
     Console.WriteLine("Excelente");
 }else if (nota >= 7)
     Console.WriteLine("boa");
-}else if (nota >= 5) { }
+}else if (nota >= 5) { 
+}
 
 }
