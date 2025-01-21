@@ -1,0 +1,15 @@
+C:\Users\wesle\OneDrive\Área de Trabalho\lista_01_exercicios\EX_11\obj\Debug\net8.0\while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\OneDrive\Área de Trabalho\lista_01_exercicios\EX_11\obj\Debug\net8.0\while.AssemblyInfoInputs.cache
+C:\Users\wesle\OneDrive\Área de Trabalho\lista_01_exercicios\EX_11\obj\Debug\net8.0\while.AssemblyInfo.cs
+C:\Users\wesle\OneDrive\Área de Trabalho\lista_01_exercicios\EX_11\obj\Debug\net8.0\while.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Área de Trabalho\lista_01_exercicios\EX_11\obj\Debug\net8.0\while.sourcelink.json
+C:\Users\wesle\OneDrive\Área de Trabalho\lista_01_exercicios\EX_11\bin\Debug\net8.0\while.exe
+C:\Users\wesle\OneDrive\Área de Trabalho\lista_01_exercicios\EX_11\bin\Debug\net8.0\while.deps.json
+C:\Users\wesle\OneDrive\Área de Trabalho\lista_01_exercicios\EX_11\bin\Debug\net8.0\while.runtimeconfig.json
+C:\Users\wesle\OneDrive\Área de Trabalho\lista_01_exercicios\EX_11\bin\Debug\net8.0\while.dll
+C:\Users\wesle\OneDrive\Área de Trabalho\lista_01_exercicios\EX_11\bin\Debug\net8.0\while.pdb
+C:\Users\wesle\OneDrive\Área de Trabalho\lista_01_exercicios\EX_11\obj\Debug\net8.0\while.dll
+C:\Users\wesle\OneDrive\Área de Trabalho\lista_01_exercicios\EX_11\obj\Debug\net8.0\refint\while.dll
+C:\Users\wesle\OneDrive\Área de Trabalho\lista_01_exercicios\EX_11\obj\Debug\net8.0\while.pdb
+C:\Users\wesle\OneDrive\Área de Trabalho\lista_01_exercicios\EX_11\obj\Debug\net8.0\while.genruntimeconfig.cache
+C:\Users\wesle\OneDrive\Área de Trabalho\lista_01_exercicios\EX_11\obj\Debug\net8.0\ref\while.dll

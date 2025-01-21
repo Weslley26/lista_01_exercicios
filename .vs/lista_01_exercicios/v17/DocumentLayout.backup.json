@@ -1,14 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wesley.sjesus7\\Documents\\lista_01_exercicios\\",
+  "WorkspaceRootPath": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83A3D90B-1731-4BF6-BF70-E2F316D50842}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\wesley.sjesus7\\documents\\lista_01_exercicios\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83A3D90B-1731-4BF6-BF70-E2F316D50842}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6021913-E227-459D-A7C0-83454EC35CE4}|EX_11\\EX_11.csproj|c:\\users\\wesle\\onedrive\\\u00E1rea de trabalho\\lista_01_exercicios\\ex_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6021913-E227-459D-A7C0-83454EC35CE4}|EX_11\\EX_11.csproj|solutionrelative:ex_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6021913-E227-459D-A7C0-83454EC35CE4}|EX_11\\EX_11.csproj|c:\\users\\wesley.sjesus7\\documents\\lista_01_exercicios\\ex_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6021913-E227-459D-A7C0-83454EC35CE4}|EX_11\\EX_11.csproj|solutionrelative:ex_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA27C06D-9996-47A3-8703-DAE14555D772}|lista10\\lista10.csproj|c:\\users\\wesle\\onedrive\\\u00E1rea de trabalho\\lista_01_exercicios\\lista10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA27C06D-9996-47A3-8703-DAE14555D772}|lista10\\lista10.csproj|solutionrelative:lista10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992B2FB6-FD5B-48B8-A917-DDFFB571E2F1}|lista9\\lista09.csproj|c:\\users\\wesle\\onedrive\\\u00E1rea de trabalho\\lista_01_exercicios\\lista9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992B2FB6-FD5B-48B8-A917-DDFFB571E2F1}|lista9\\lista09.csproj|solutionrelative:lista9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2099F8-C6CB-47EA-8925-355E9758D744}|lista8\\lista08.csproj|c:\\users\\wesle\\onedrive\\\u00E1rea de trabalho\\lista_01_exercicios\\lista8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2099F8-C6CB-47EA-8925-355E9758D744}|lista8\\lista08.csproj|solutionrelative:lista8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4C2FDE-BB80-4E19-8908-C28A6A6FBCA4}|lista7\\lista07.csproj|c:\\users\\wesle\\onedrive\\\u00E1rea de trabalho\\lista_01_exercicios\\lista7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4C2FDE-BB80-4E19-8908-C28A6A6FBCA4}|lista7\\lista07.csproj|solutionrelative:lista7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1862AEC0-6E85-4310-90AD-BDD10ECBE8C4}|for\\for.csproj|c:\\users\\wesle\\onedrive\\\u00E1rea de trabalho\\lista_01_exercicios\\for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1862AEC0-6E85-4310-90AD-BDD10ECBE8C4}|for\\for.csproj|solutionrelative:for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC30AFA-1B27-4675-9313-CD18200408F0}|do while\\do while.csproj|c:\\users\\wesle\\onedrive\\\u00E1rea de trabalho\\lista_01_exercicios\\do while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC30AFA-1B27-4675-9313-CD18200408F0}|do while\\do while.csproj|solutionrelative:do while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF829D2-BF13-4DA9-88C4-38A216D12B6B}|lista6\\lista06.csproj|c:\\users\\wesle\\onedrive\\\u00E1rea de trabalho\\lista_01_exercicios\\lista6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF829D2-BF13-4DA9-88C4-38A216D12B6B}|lista6\\lista06.csproj|solutionrelative:lista6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E294E960-2172-49E0-8118-BFDB3CE98017}|lista3\\lista03.csproj|c:\\users\\wesle\\onedrive\\\u00E1rea de trabalho\\lista_01_exercicios\\lista3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E294E960-2172-49E0-8118-BFDB3CE98017}|lista3\\lista03.csproj|solutionrelative:lista3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73B9054-E8FD-43EE-A7B3-20EB61A8CFEC}|lista_01\\lista_01.csproj|c:\\users\\wesle\\onedrive\\\u00E1rea de trabalho\\lista_01_exercicios\\lista_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73B9054-E8FD-43EE-A7B3-20EB61A8CFEC}|lista_01\\lista_01.csproj|solutionrelative:lista_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,34 +50,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wesley.sjesus7\\Documents\\lista_01_exercicios\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\wesley.sjesus7\\Documents\\lista_01_exercicios\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\for\\Program.cs",
+              "RelativeDocumentMoniker": "for\\Program.cs",
+              "ToolTip": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\for\\Program.cs",
+              "RelativeToolTip": "for\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:55:02.761Z",
+              "WhenOpened": "2025-01-21T23:06:19.966Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\lista6\\Program.cs",
+              "RelativeDocumentMoniker": "lista6\\Program.cs",
+              "ToolTip": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\lista6\\Program.cs",
+              "RelativeToolTip": "lista6\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:51:53.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\do while\\Program.cs",
+              "RelativeDocumentMoniker": "do while\\Program.cs",
+              "ToolTip": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\do while\\Program.cs",
+              "RelativeToolTip": "do while\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:54:24.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wesley.sjesus7\\Documents\\lista_01_exercicios\\EX_11\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\lista10\\Program.cs",
+              "RelativeDocumentMoniker": "lista10\\Program.cs",
+              "ToolTip": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\lista10\\Program.cs",
+              "RelativeToolTip": "lista10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:50:23.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\lista9\\Program.cs",
+              "RelativeDocumentMoniker": "lista9\\Program.cs",
+              "ToolTip": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\lista9\\Program.cs",
+              "RelativeToolTip": "lista9\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:50:01.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\lista8\\Program.cs",
+              "RelativeDocumentMoniker": "lista8\\Program.cs",
+              "ToolTip": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\lista8\\Program.cs",
+              "RelativeToolTip": "lista8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:49:03.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\lista7\\Program.cs",
+              "RelativeDocumentMoniker": "lista7\\Program.cs",
+              "ToolTip": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\lista7\\Program.cs",
+              "RelativeToolTip": "lista7\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:48:00.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\lista3\\Program.cs",
+              "RelativeDocumentMoniker": "lista3\\Program.cs",
+              "ToolTip": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\lista3\\Program.cs",
+              "RelativeToolTip": "lista3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:47:48.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\lista_01\\Program.cs",
+              "RelativeDocumentMoniker": "lista_01\\Program.cs",
+              "ToolTip": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\lista_01\\Program.cs",
+              "RelativeToolTip": "lista_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:47:38.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\EX_11\\Program.cs",
               "RelativeDocumentMoniker": "EX_11\\Program.cs",
-              "ToolTip": "C:\\Users\\wesley.sjesus7\\Documents\\lista_01_exercicios\\EX_11\\Program.cs",
+              "ToolTip": "C:\\Users\\wesle\\OneDrive\\\u00C1rea de Trabalho\\lista_01_exercicios\\EX_11\\Program.cs",
               "RelativeToolTip": "EX_11\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T17:39:38.575Z",
               "EditorCaption": ""

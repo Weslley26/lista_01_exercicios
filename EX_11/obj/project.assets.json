@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wesle\\OneDrive\\Área de Trabalho\\lista_01_exercicios\\EX_11\\EX_11.csproj",
-      "projectName": "EX_11",
-      "projectPath": "C:\\Users\\wesle\\OneDrive\\Área de Trabalho\\lista_01_exercicios\\EX_11\\EX_11.csproj",
+      "projectUniqueName": "C:\\Users\\wesle\\OneDrive\\Área de Trabalho\\lista_01_exercicios\\EX_11\\while.csproj",
+      "projectName": "while",
+      "projectPath": "C:\\Users\\wesle\\OneDrive\\Área de Trabalho\\lista_01_exercicios\\EX_11\\while.csproj",
       "packagesPath": "C:\\Users\\wesle\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\wesle\\OneDrive\\Área de Trabalho\\lista_01_exercicios\\EX_11\\obj\\",
       "projectStyle": "PackageReference",
